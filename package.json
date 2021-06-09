@@ -1,0 +1,16 @@
+{
+  "name": "17-codewars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "Virginijus Klimauskas",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.0.1"
+  
+  }
+}
